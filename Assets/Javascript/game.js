@@ -69,3 +69,4 @@ document.onkeyup = function(event) {
     createBlanks(computerGuess);
   }
 };
+
